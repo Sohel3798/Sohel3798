@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Mobile App Development via Xamarin / .net MAUI And Flutter For Android/iOS App**
 
-- 💬 Ask me about **Xamarin,Flutter**
-
 - 📫 How to reach me **imsohel3798@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
