@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sohel3798&label=Profile%20views&color=0e75b6&style=flat" alt="Sohel3798" /> </p>
 
 
-- 🔭 I’m currently working on **Mobile App Development via Xamarin / .net MAUI And Flutter For Android/iOS App**
+- 🔭 I’m currently working on **Mobile App Development via Xamarin / .net MAUI And Flutter , Android/iOS App**
 
 - 📫 How to reach me **imsohel3798@gmail.com**
 
