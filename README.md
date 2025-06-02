@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="MasterHead">
 </p>
-<h1 align="center">Hi 👋, I'm Sohel Memon</h1>
+<h1 align="center">Hi 👋, I'm Sohel Memon </h1>
 <h3 align="center">A passionate mobile app developer from India</h3>
 
 
